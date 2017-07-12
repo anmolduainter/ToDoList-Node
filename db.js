@@ -30,6 +30,6 @@ db.sync().then(function () {
 })
 
 
-Module.export={
+module.exports={
     Todos
 }
